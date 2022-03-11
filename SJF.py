@@ -1,3 +1,7 @@
+#Integrantes
+#Luis Fernando Bastidas        1004546496
+#Sebastian Castaño Ospina      1087562075
+
 def buscar(pr,n):
     #ordenar
     te=0                                                #tiempo de espera
